@@ -1,0 +1,5 @@
+Video_Embed_Code = 
+"<video width='100%' controls autoplay loop>
+  <source src='https://raw.githubusercontent.com/renatabalsani/video-power-bi/35ff58ce9bcca33ac27692fcde3ff60337cb7c04/Projeto%20de%20V%C3%ADdeo4.mp4' type='video/mp4'>
+  Seu navegador não suporta a reprodução de vídeo.
+</video>"
